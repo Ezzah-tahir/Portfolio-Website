@@ -2,12 +2,12 @@
 
 ### Personal Portfolio Website
 
-| | |
 
-| **Prepared by** | Ezza |
-| **Role** | BS Information Technology, 7th Semester — International Islamic University Islamabad (IIUI) |
-| **Document version** | 1.0 |
-| **Status** | Draft |
+
+ **Prepared by** : Ezza 
+ **Role** : BS Information Technology, 7th Semester — International Islamic University Islamabad (IIUI) 
+ **Document version** : 1.0 
+ **Status** : Draft 
 
 ---
 
